@@ -1,5 +1,8 @@
 # EdgeDetectionVisium
 
+This repo is no longer being maintained. Please see SingleCellTools (https://github.com/gevensen95/SingleCellTools) for the most
+up-to-date version, plus more functions.
+
 This function is designed to identify spots near the edges of the Visium box, tissue boundary, and tears in the tissue. 
 These spots may have abnormally high or low counts that may skew downstream analysis and should be filtered out.
 
